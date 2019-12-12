@@ -299,7 +299,7 @@
 .p-t-91 {padding-top: 91px;}
 .p-t-92 {padding-top: 92px;}
 .p-t-93 {padding-top: 93px;}
-.p-t-94 {padding-top: 94px;}
+.p-t-94 {padding-top: 30px;}
 .p-t-95 {padding-top: 95px;}
 .p-t-96 {padding-top: 96px;}
 .p-t-97 {padding-top: 97px;}
@@ -521,7 +521,7 @@
 .p-b-62 {padding-bottom: 62px;}
 .p-b-63 {padding-bottom: 63px;}
 .p-b-64 {padding-bottom: 64px;}
-.p-b-65 {padding-bottom: 65px;}
+.p-b-65 {padding-bottom: 30px;}
 .p-b-66 {padding-bottom: 66px;}
 .p-b-67 {padding-bottom: 67px;}
 .p-b-68 {padding-bottom: 68px;}
@@ -561,7 +561,7 @@
 .p-b-102 {padding-bottom: 102px;}
 .p-b-103 {padding-bottom: 103px;}
 .p-b-104 {padding-bottom: 104px;}
-.p-b-105 {padding-bottom: 105px;}
+.p-b-105 {padding-bottom: 30px;}
 .p-b-106 {padding-bottom: 106px;}
 .p-b-107 {padding-bottom: 107px;}
 .p-b-108 {padding-bottom: 108px;}
@@ -4134,4 +4134,11 @@ RESPONSIVE  RESPONSIVE  RESPONSIVE  RESPONSIVE   RESPONSIVE
 	.respon4 {
 		width: 100%;
 	}
+}
+
+
+/* bo sung */
+.p-b-5::placeholder {
+	color: white !important;
+	opacity: 1;
 }
